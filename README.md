@@ -5,16 +5,16 @@ impression drawing：
 ![image](https://github.com/yan-yt/Leaflet-measureControl/raw/master/img/example.png)
 
 options:
-        disTooltipText : '', 距离测量工具提示语
-        startingPoint : '',  起点文本
-        totalLength : '', 总长度文本
-        totalArea : '', 总面积文本
-        disTitle  : '',
-        areaTooltipText : '',面积测量工具提示语
-        areaTitle : '',
-        clearTitle : '',
-        errorText : '',错误信息
-        disText : '',
-        areaText : '',
-        clearText : ''
+        disTooltipText : '', 距离测量工具提示语</br>
+        startingPoint : '',  起点文本</br>
+        totalLength : '', 总长度文本</br>
+        totalArea : '', 总面积文本</br>
+        disTitle  : '',</br>
+        areaTooltipText : '',面积测量工具提示语</br>
+        areaTitle : '',</br>
+        clearTitle : '',</br>
+        errorText : '',错误信息</br>
+        disText : '',</br>
+        areaText : '',</br>
+        clearText : ''</br>
 
