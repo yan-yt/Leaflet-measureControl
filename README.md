@@ -21,17 +21,18 @@ This is a measurement plug-in based on a Leaflet.
 ## How To Use
 
 ``` javascript
-L.Control.measureControl({handler:{
-  disTooltipText : '',
-   startingPoint : '',
-   totalLength : '',
-   totalArea : '', 
-   disTitle  : '',
-   areaTooltipText : '',
-   areaTitle : '',
-   clearTitle : '',
-   errorText : '',
-   isText : '',
-   reaText : '',
-   learText : ''
-}}).addTo(map);
+  L.Control.measureControl({handler:{
+    disTooltipText : '',
+    startingPoint : '',
+    totalLength : '',
+    totalArea : '', 
+    disTitle  : '',
+    areaTooltipText : '',
+    areaTitle : '',
+    clearTitle : '',
+    errorText : '',
+    isText : '',
+    reaText : '',
+    learText : ''
+  }}).addTo(map);
+'''
